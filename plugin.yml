@@ -1,0 +1,3 @@
+name: MOTD
+main: nmt.minecraft.bohric.MOTD.MOTD
+version: 0.4
